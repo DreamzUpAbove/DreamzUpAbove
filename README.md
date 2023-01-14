@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DreamzUpAbove
-- 👀 I’m interested in Quantum Computing, AI and ML, Mobile applications, AR/VR technologies
-- 🌱 I’m currently learning Quantum Computing
-- 💞️ I’m looking to collaborate on Quantum Computing
+- 👀 Interested in Quantum Computing, AI and ML, Mobile applications, AR/VR technologies
+- 🌱 Learning Quantum Computing
+- 💞️ A Quantum Open Source Foundation Contributor 
 - 📫 How to reach me https://www.linkedin.com/in/ragunath-c-91605769
 
 <!---
